@@ -1,0 +1,10 @@
+# macOS artifacts
+__MACOSX/
+.DS_Store
+._*
+
+# Cityscapes images (license forbids redistribution)
+DetectIllegalParking/DetectIllegalParking/frankfurt/
+
+# Public pretrained YOLOv3 weights (download from pjreddie.com)
+*.weights
